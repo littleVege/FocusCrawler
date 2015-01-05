@@ -13,6 +13,7 @@ namespace FocusCrawler
 {
     class Program
     {
+        //url template http://bj.esf.focus.cn/xiaoqu/6407/?From=comd_sp;
         private static Queue<string> _urlQueue = new Queue<string>();
         static void Main(string[] args)
         {
